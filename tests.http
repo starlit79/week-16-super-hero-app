@@ -1,0 +1,7 @@
+
+### Hit the root of the site
+GET http://localhost:3009/
+
+
+### Git the special demo url for viewing how env vars work
+GET http://localhost:3009/debug-the-config

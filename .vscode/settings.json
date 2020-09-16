@@ -1,0 +1,27 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "mysql",
+            "dialect": "MySQL",
+            "name": "localhost",
+            "password": "wsucode",
+            "port": 3306,
+            "server": "localhost",
+            "username": "wsucode",
+            "driver": "MySQL"
+        },
+        {
+            "askForPassword": true,
+            "connectString": "mysql://b729cc8e937760:b27a930f@us-cdbr-east-02.cleardb.com/heroku_f04a65b81f646c0",
+            "driver": "MySQL",
+            "group": "demo",
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "name": "migrations demo",
+            "port": 3306,
+            "previewLimit": 50,
+            "server": "localhost"
+        }
+    ]
+}
