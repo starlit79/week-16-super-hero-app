@@ -1,0 +1,5 @@
+Create a new migration file
+
+npx sequelize migration:generate --name add-nemesis-column
+
+Use it to add a new column named 'nemesis' which holds a string

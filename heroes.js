@@ -4,7 +4,7 @@ const heroes = [{
   firstappearance: 'Captain America Comics #1',
   slug: 'captain-america'
 }, {
-  name: 'Spider-Man',
+  name: 'Spider-Man Nemesis',
   realname: 'Peter Parker',
   firstappearance: 'Amazing Fantasy #15',
   slug: 'spider-man'

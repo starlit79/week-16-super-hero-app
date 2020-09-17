@@ -6,6 +6,7 @@ const heroes = (connection, Sequelize) => {
     firstappearance: { type: Sequelize.STRING },
     slug: { type: Sequelize.STRING, unique: true },
     snapped: { type: Sequelize.BOOLEAN, defaultValue: 0 },
+    nemesis: { type: Sequelize.STRING }
   }, { paranoid: true })
 }
 
